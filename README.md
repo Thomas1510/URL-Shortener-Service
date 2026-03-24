@@ -198,6 +198,7 @@ curl -X POST http://localhost:8080/api/shorten \
 ## 🎞️ Demo Preview
 
 ![Project Demo](Project-Outputs/Output.gif)
+
 ▶️ Watch Full Demo on YouTube
 
 ## 🎥 YouTube Demo
